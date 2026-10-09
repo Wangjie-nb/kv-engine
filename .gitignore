@@ -1,0 +1,6 @@
+build/
+bin/
+*.log
+wal-*.log
+.DS_Store
+*.o
